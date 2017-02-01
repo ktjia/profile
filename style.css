@@ -1,0 +1,61 @@
+body {
+  background-color: #626a84;
+  font-family: 'Open Sans', sans-serif;
+  color: #333333;
+  font-size: 20px;
+  line-height: 1.6em;
+
+}
+
+
+.container{
+/*  background-color: ;*/
+  /*margin: 20px auto;*/
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  width: 500px;
+  text-align: center;
+  margin-right: auto;
+  padding: 20px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.movies{
+background-color: red;
+}
+
+.card{
+ background-color: #b3c2f2;
+  /*margin: 10px auto;*/
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  /*width: 300px;*/
+  text-align: center ;
+  -webkit-box-shadow: 1px 2px 16px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 2px 16px -2px rgba(0,0,0,0.75);
+box-shadow: 1px 2px 16px -2px rgba(0,0,0,0.75);
+
+
+}
+
+
+}
+h1, h2, h3 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  line-height: 2em;
+}
+
+a {
+  text-decoration: none;
+  color: #4C4C4C;
+}
+
+
+img {
+height: 200px;
+width: 200px; }
+/* Here goes your CSS */
